@@ -1,4 +1,4 @@
-"""# 📊 Customer Engagement & Product Utilization Analytics for Retention Strategy
+# 📊 Customer Engagement & Product Utilization Analytics for Retention Strategy
 
 ## 🏦 Behavioral Retention Intelligence System for European Banking
 
@@ -160,4 +160,3 @@ Behavioral Retention Analytics Consultant
 ---
 
 ⭐ This project demonstrates how engagement-driven analytics combined with predictive modeling and explainable AI can transform customer retention strategy in modern banking environments.
-"""
