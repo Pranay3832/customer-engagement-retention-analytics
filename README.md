@@ -136,12 +136,12 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SHAP, Streamlit, Jupyt
 ## 📌 How to Run
 
 1. Clone repository  
-git clone https://github.com/yourusername/customer-engagement-retention-analytics.git
+git clone https://github.com/Pranay3832/customer-engagement-retention-analytics.git
 
-2. Install dependencies  
+3. Install dependencies  
 pip install -r requirements.txt
 
-3. Run Streamlit  
+4. Run Streamlit  
 streamlit run app/streamlit_app.py
 
 ---
