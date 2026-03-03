@@ -31,26 +31,21 @@ The study uses a dataset of 10,000 European bank customers to develop an engagem
 
 ## 📂 Repository Structure
 
-customer-engagement-retention-analytics\
-│
+customer-engagement-retention-analytics/
 ├── data/
 │   └── European_Bank.csv
-│
-├── notebooks\
+├── notebooks/
 │   └── 01_EDA_and_KPI_Analysis.ipynb
-│
-├── app\
+├── app/
 │   └── streamlit_app.py
-│
-├── reports\
+├── reports/
 │   └── Customer_Engagement_Retention_Merged_Final_Research_Paper.docx
-│
-├── images\
+├── images/
 │   └── dashboard_preview.png
-│
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
 
 ---
 
