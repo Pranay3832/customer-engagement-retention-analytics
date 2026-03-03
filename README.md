@@ -44,7 +44,7 @@ customer-engagement-retention-analytics\
 │   └── dashboard_preview.png\
 ├── requirements.txt\
 ├── README.md\
-└── .gitignore\
+└── .gitignore
 
 
 ---
